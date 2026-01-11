@@ -20,3 +20,8 @@ This project explores data sonification as an alternative way to understand clim
 ### Tools
 Python, Pandas, MIDIUtil
 
+### Audio Output
+The generated audio file (`climate_music.mp3`) cannot be previewed directly on GitHub.  
+Please download the file and play it locally to listen to the sonified climate data.
+
+
